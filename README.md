@@ -16,8 +16,4 @@ A simple interactive game built using HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-(Add your project screenshot here)
-
-## 🔗 Live Demo
-
-(Add link after deployment)
+(OutputSS.png contains output screenshot of my project )
